@@ -1,7 +1,7 @@
 # reduxTest
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/64506852/209585855-266dc800-ddd2-484e-8b82-b98c608fac5d.png"/>
+  <img src="https://user-images.githubusercontent.com/64506852/209711730-5aeb3de2-093f-4178-80d4-2713b6d7fe2e.png"/>
 </div>
 
 <br>

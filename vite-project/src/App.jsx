@@ -1,22 +1,23 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
+import reactLogo from '/assets/react.svg'
+import reduxLogo from '/assets/redux.svg'
 import './App.css'
 import Login from './components/Login'
 import Logout from './components/Logout'
 import User from './components/User'
+
 function App() {
 
   return (
     <div className="App">
       <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src="/vite.svg" className="logo" alt="Vite logo" />
-        </a>
         <a href="https://reactjs.org" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
+          <img src={reactLogo} className="react logo" alt="React logo" />
+        </a>
+        <a href="https://react-redux.js.org" target="_blank">
+          <img src={reduxLogo} className="redux logo" alt="Redux logo" />
         </a>
       </div>
-      <h1>Vite + React + Redux</h1>
+      <h1>React + Redux</h1>
       <br />
       <Login/>
       <br />
